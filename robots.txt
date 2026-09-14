@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aperturedial.com/sitemap.xml
